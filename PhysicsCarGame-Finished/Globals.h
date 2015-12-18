@@ -46,4 +46,4 @@ enum update_status
 #define COLOR_BACKGROUND_YELLOW 0.3529, 0.3529, 0.2745
 
 // Max Laps ------------------------------------
-#define MAX_LAPS 1
+#define MAX_LAPS 2

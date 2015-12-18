@@ -1,7 +1,11 @@
-﻿Build started 18/12/2015 20:52:03.
+﻿Build started 18/12/2015 21:37:19.
      1>Project "C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\3D Physics.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AirRide3D.cpp Application.cpp Color.cpp glmath.cpp Light.cpp log.cpp Main.cpp ModuleAudio.cpp ModuleCamera3D.cpp ModuleInput.cpp ModulePhysics3D.cpp ModulePlayer.cpp ModuleRenderer3D.cpp ModuleSceneIntro.cpp ModuleWindow.cpp PhysBody3D.cpp PhysVehicle3D.cpp Primitive.cpp Timer.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AirRide3D.cpp Application.cpp Light.cpp Main.cpp ModuleAudio.cpp ModuleCamera3D.cpp ModuleInput.cpp ModulePhysics3D.cpp ModulePlayer.cpp ModuleRenderer3D.cpp ModuleSceneIntro.cpp ModuleWindow.cpp PhysBody3D.cpp PhysVehicle3D.cpp Primitive.cpp Timer.cpp log.cpp
+         AirRide3D.cpp
+         Generating Code...
+         Compiling...
+         log.cpp
          Timer.cpp
          Primitive.cpp
          PhysVehicle3D.cpp
@@ -77,12 +81,8 @@
          ModuleCamera3D.cpp
          ModuleAudio.cpp
          Main.cpp
-         log.cpp
          Light.cpp
-         glmath.cpp
-         Color.cpp
          Application.cpp
-         AirRide3D.cpp
          Generating Code...
      1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\moduleplayer.cpp(228): warning C4715: 'ModulePlayer::GetKmh' : not all control paths return a value
        Link:
@@ -105,10 +105,9 @@
          Debug\PhysVehicle3D.obj
          Debug\Primitive.obj
          Debug\Timer.obj
-     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
          3D Physics.vcxproj -> C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\Debug\3D Physics - class6.exe
      1>Done Building Project "C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\3D Physics.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:14.91
+Time Elapsed 00:00:13.99
