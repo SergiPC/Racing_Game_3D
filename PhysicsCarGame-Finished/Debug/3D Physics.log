@@ -1,0 +1,114 @@
+﻿Build started 18/12/2015 20:52:03.
+     1>Project "C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\3D Physics.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AirRide3D.cpp Application.cpp Color.cpp glmath.cpp Light.cpp log.cpp Main.cpp ModuleAudio.cpp ModuleCamera3D.cpp ModuleInput.cpp ModulePhysics3D.cpp ModulePlayer.cpp ModuleRenderer3D.cpp ModuleSceneIntro.cpp ModuleWindow.cpp PhysBody3D.cpp PhysVehicle3D.cpp Primitive.cpp Timer.cpp
+         Timer.cpp
+         Primitive.cpp
+         PhysVehicle3D.cpp
+         PhysBody3D.cpp
+         ModuleWindow.cpp
+         ModuleSceneIntro.cpp
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(48): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(52): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(54): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(56): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(66): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(77): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(82): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(88): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(94): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(99): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(105): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(111): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(116): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(122): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(127): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(136): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(141): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(146): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(152): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(161): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(165): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(171): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(179): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(182): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(187): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(192): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(198): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(203): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(214): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(220): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(226): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(232): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(238): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(246): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(249): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(269): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(290): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(297): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(298): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(299): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(300): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(301): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(302): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(303): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(304): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(305): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(323): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(329): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulesceneintro.cpp(404): warning C4018: '<' : signed/unsigned mismatch
+         ModuleRenderer3D.cpp
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulerenderer3d.cpp(67): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+         ModulePlayer.cpp
+         ModulePhysics3D.cpp
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulephysics3d.cpp(330): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulephysics3d.cpp(357): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulephysics3d.cpp(548): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulephysics3d.cpp(556): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulephysics3d.cpp(564): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\modulephysics3d.cpp(572): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         ModuleInput.cpp
+         ModuleCamera3D.cpp
+         ModuleAudio.cpp
+         Main.cpp
+         log.cpp
+         Light.cpp
+         glmath.cpp
+         Color.cpp
+         Application.cpp
+         AirRide3D.cpp
+         Generating Code...
+     1>c:\users\sergi\documents\github\racing_game_3d\physicscargame-finished\moduleplayer.cpp(228): warning C4715: 'ModulePlayer::GetKmh' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\Debug\3D Physics - class6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\Debug\3D Physics - class6.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\Debug\3D Physics - class6.lib" /MACHINE:X86 /SAFESEH:NO Debug\AirRide3D.obj
+         Debug\Application.obj
+         Debug\Color.obj
+         Debug\glmath.obj
+         Debug\Light.obj
+         Debug\log.obj
+         Debug\Main.obj
+         Debug\ModuleAudio.obj
+         Debug\ModuleCamera3D.obj
+         Debug\ModuleInput.obj
+         Debug\ModulePhysics3D.obj
+         Debug\ModulePlayer.obj
+         Debug\ModuleRenderer3D.obj
+         Debug\ModuleSceneIntro.obj
+         Debug\ModuleWindow.obj
+         Debug\PhysBody3D.obj
+         Debug\PhysVehicle3D.obj
+         Debug\Primitive.obj
+         Debug\Timer.obj
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         3D Physics.vcxproj -> C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\Debug\3D Physics - class6.exe
+     1>Done Building Project "C:\Users\Sergi\Documents\GitHub\Racing_Game_3D\PhysicsCarGame-Finished\3D Physics.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.91
